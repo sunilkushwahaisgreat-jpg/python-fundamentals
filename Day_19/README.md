@@ -1,0 +1,5 @@
+- Practiced NumPy array & matrix operations
+- Performed vector math without loops
+- Implemented dot product, L2 norm & cosine similarity
+- Learned normalization & standardization
+- Strengthened matrix thinking for ML
