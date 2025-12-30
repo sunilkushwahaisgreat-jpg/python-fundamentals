@@ -1,0 +1,5 @@
+- Implemented linear regression using NumPy
+- Simulated training using gradient descent
+- Computed MSE loss manually
+- Verified weight updates and convergence
+- Understood relationship between parameters and loss
