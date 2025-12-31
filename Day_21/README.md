@@ -1,0 +1,4 @@
+- Implemented multivariate linear regression using NumPy
+- Trained using matrix-form gradient descent
+- Observed convergence of weights toward true parameters
+- Understood role of feature scaling and noise in optimization
