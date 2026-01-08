@@ -1,0 +1,6 @@
+- Trained linear regression using sklearn
+- Verified coefficients match ground truth
+- Understood R² evaluation
+- Learned that scaling does not change LR accuracy
+- Used Pipeline to prevent data leakage
+- Connected NumPy ML to industry workflows
